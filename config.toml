@@ -1,0 +1,4 @@
+baseURL = "https://bedroomideaswook.vercel.app"
+languageCode = "en-us"
+title = "Bedroom Ideas pinterest"
+theme = "hugo-theme-minos"
